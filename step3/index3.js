@@ -1,4 +1,4 @@
-//清除设置的函数
+//清除设置的函数--KingArthur
 /*
 setTimeout() clearTimeout()
 setImmediate() clearImmediate()

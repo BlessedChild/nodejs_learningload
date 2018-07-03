@@ -1,7 +1,7 @@
 {
   "name": "setp5",
   "version": "1.0.0",
-  "description": "",
+  "description": "node.js v8.11.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
